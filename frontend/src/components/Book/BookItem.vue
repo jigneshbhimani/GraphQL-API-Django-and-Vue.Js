@@ -8,7 +8,7 @@
     <p><b>Quantity: </b>{{ book.quantity }}</p>
     <p><b>Description: </b>{{ book.description }}</p>
     <p><b>Status: </b>{{ book.status }}</p>
-    <p><b>Date Created: </b>{{ book.date_created }}</p>
+    <p><b>Date Created: </b>{{ book.dateCreated }}</p>
   </div>
 </template>
 
